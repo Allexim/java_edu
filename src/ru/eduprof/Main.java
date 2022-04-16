@@ -42,9 +42,7 @@ public class Main {
         System.out.println("");
         System.out.println("The sum of numbers = "+sum);
 
-        int summary;
-        summary=Test1.summation();
-        System.out.println(summary);
+
 
 
 
